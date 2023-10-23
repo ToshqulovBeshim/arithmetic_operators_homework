@@ -5,5 +5,7 @@
 #Find the fraction of the number and assign to a variable called 'answer'.
  
 #Print the answer.
- 
-#Print the number.
+a=int(input("a = "))
+b=a/2-a//2
+print(b)
+ #Print the number.

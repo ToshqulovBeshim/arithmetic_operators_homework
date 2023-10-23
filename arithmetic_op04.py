@@ -1,5 +1,6 @@
-#Create a variable called 'number' and assign it the three-digit number.
-
+#Creatae a variable called 'number' and assign it the three-digit number.
+a=123
+print(a%10*3,a//100,a//10%10)
 #Find the 'number' first digit and assign to x1.
 
 #Find the 'number' second digit and assign to x2.
